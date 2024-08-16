@@ -1,11 +1,11 @@
 # Database and OS security of the HR system of a company
 
-LO1: Design and develop database solutions for real world applications.
+LO1: Design and develop database solutions for real world applications.<br>
 LO2: Apply relational query languages and database programming languages in database
-applications.
-LO3: Evaluate query plans and recommend solutions to speed up the database servers.
+applications.<br>
+LO3: Evaluate query plans and recommend solutions to speed up the database servers.<br>
 LO4: Apply appropriate solutions to address security and performance concerns related to
-databases
+databases<br>
 
 **Task 1 – OS Security**
 1. Compare and contrast 5 Linux distributions and select and justify the most suitable
