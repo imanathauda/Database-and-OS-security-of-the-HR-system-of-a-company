@@ -44,9 +44,9 @@ sensitive/private information and mask that data appropriately.
 
 **Task 3 – Big Data Security**
 1. Carryout a lit review of the security issues faced when using big data and what can be
-done to mitigate those risks.
+done to mitigate those risks.<br>
   a. Identify the main security requirements of big data and highlight how they
-differ from the security requirements of traditional databases.
+differ from the security requirements of traditional databases.<br>
   b. Identify and explain 5 common attacks that can be mounted on big data
-systems.
+systems.<br>
   c. Identify and explain at least 2 security controls to mitigate each attack.
